@@ -1,2 +1,2 @@
 # BitsOfGoodAssessment
-Files for the Bits of Good Bootcamp Assessment
+Hi, This contains the files for the assessment
