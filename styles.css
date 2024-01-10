@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.card {
+    background-color: rgb(31, 90, 146);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+.details {
+    color: rgb(255, 255, 255);
+    margin: 5px 0;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+.interests {
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
